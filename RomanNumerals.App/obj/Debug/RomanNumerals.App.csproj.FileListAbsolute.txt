@@ -1,0 +1,7 @@
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\bin\Debug\RomanNumerals.App.exe.config
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\bin\Debug\RomanNumerals.App.exe
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\bin\Debug\RomanNumerals.App.pdb
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\obj\Debug\RomanNumerals.App.csproj.CoreCompileInputs.cache
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\obj\Debug\RomanNumerals.App.exe
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\obj\Debug\RomanNumerals.App.pdb
+C:\Users\gbowden\workspace\backend\RomanNumerals.App\obj\Debug\RomanNumerals.App.csprojResolveAssemblyReference.cache

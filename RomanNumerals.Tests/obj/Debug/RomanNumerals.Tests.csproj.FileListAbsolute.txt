@@ -1,0 +1,11 @@
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.csproj.CoreCompileInputs.cache
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\RomanNumerals.Tests.dll
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\RomanNumerals.Tests.pdb
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\nunit.framework.dll
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\RomanNumerals.App.exe
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\RomanNumerals.App.pdb
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\RomanNumerals.App.exe.config
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\bin\Debug\nunit.framework.xml
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.dll
+C:\Users\gbowden\workspace\backend\RomanNumerals.Tests\obj\Debug\RomanNumerals.Tests.pdb
